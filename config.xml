@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.sisecrea"
+    version   = "1.0.0">
+
+<name>segundo que vi que si se crea</name>
+
+<description>
+segunda y si funciona
+</description>
+
+<author href="https://urielchavez.net" email="contacto@urielchavez.net">
+uriel
+</author>
+
+</widget>
